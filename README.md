@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Sanchayita23104/Sanchayita23104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sanchayita 👋
 
-Here are some ideas to get you started:
+## I'm and enthusiastic and passionate individual who is ready to tackle real world problems and has an enthusiasm for learning new things everyday.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[https://app.lottiefiles.com/animation/918c3dd3-8432-4657-809d-cf471d652498]
+
+
+- 🔭 I’m currently working on projects in the domain of Front-End Development
+- 🌱 I’m learning Frontend and Backend Frameworks aspiring to be a Full Stack Developer
+- 💼 LinkedIn: https:[//www.linkedin.com/in/sanchayita-sharma-103370244/]
+- 📫 How to reach me: [sanchayita23104@gmail.com]
+
+## Skills
+- **Languages**: JavaScript, Python, etc.
+- **Frameworks**: React, Bootstrap, etc.
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
